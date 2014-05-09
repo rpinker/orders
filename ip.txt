@@ -1,0 +1,6 @@
+{
+	isHttps:false,
+	ip:"10.0.0.5",
+	port:8080,
+	uri:"addressbook/rest/addresses/getAddresses"
+}
